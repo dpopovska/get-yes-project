@@ -1,0 +1,246 @@
+Авганистан	AF	004
+Остров Исланд	AX	248
+Албанија	AL	008
+Алжир	DZ	012
+Американска Самоа	AS	016
+Андора	AD	020
+Ангола	AO	024
+Anguilla	AI	660
+Антартика	AQ	010
+Antigua and Barbuda	AG	028
+Аргентина	AR	032
+Armenia	AM	051
+Аруба	AW	533
+Австралија	AU	036
+Австрија	AT	040
+Азербеџан	AZ	031
+Bahamas	BS	044
+Bahrain	BH	048
+Бангладеш	BD	050
+Барбадос	BB	052
+Балорусија	BY	112
+Белгија	BE	056
+Belize	BZ	084
+Benin	BJ	204
+Bermuda	BM	060
+Бутан	BT	064
+Боливија	BO	068
+Босна и Херцеговина	BA	070
+Боцвана	BW	072
+Bouvet Island	BV	074
+Бразил	BR	076
+British Indian Ocean Territory	IO	086
+Brunei Darussalam	BN	096
+Bulgaria	BG	100
+Burkina Faso	BF	854
+Burundi	BI	108
+Cambodia	KH	116
+Камерун	CM	120
+Канада	CA	124
+Cape Verde	CV	132
+Cayman Islands	KY	136
+Central African Republic	CF	140
+Чад	TD	148
+Чиле	CL	152
+Кина	CN	156
+Christmas Island	CX	162
+Cocos (Keeling) Islands	CC	166
+Colombia	CO	170
+Comoros	KM	174
+Congo	CG	178
+Congo, Democratic Republic of the	CD	180
+Cook Islands	CK	184
+Costa Rica	CR	188
+Брегот на слоновата коска	CI	384
+Хрватска	HR	191
+Куба	CU	192
+Кипар	CY	196
+Република Чешка	CZ	203
+Данска	DK	208
+Djibouti	DJ	262
+Dominica	DM	212
+Република Доминикана	DO	214
+Еквадор	EC	218
+Египет	EG	818
+Ел Салвадор	SV	222
+Equatorial Guinea	GQ	226
+Еритреа	ER	232
+Естонија	EE	233
+Етиопија	ET	231
+Falkland Islands (Malvinas)	FK	238
+Faroe Islands	FO	234
+Фиџи	FJ	242
+Финска	FI	246
+Франција	FR	250
+Француска Гвинеја	GF	254
+French Polynesia	PF	258
+French Southern Territories	TF	260
+Габон	GA	266
+Замбија	GM	270
+Georgia	GE	268
+Германија	DE	276
+Гана	GH	288
+Гибралтар	GI	292
+Грција	GR	300
+Greenland	GL	304
+Гренада	GD	308
+Guadeloupe	GP	312
+Guam	GU	316
+Guatemala	GT	320
+Guernsey	GG	831
+Гвинеја	GN	324
+Guinea-Bissau	GW	624
+Guyana	GY	328
+Хаити	HT	332
+Heard Island and McDonald Islands	HM	334
+Holy See (Vatican City State)	VA	336
+Хондурас	HN	340
+Хонг Конг	HK	344
+Унгарија	HU	348
+Исланд	IS	352
+Индија	IN	356
+Индонезија	ID	360
+Iran, Islamic Republic of	IR	364
+Ирак	IQ	368
+Ирска	IE	372
+Isle of Man	IM	833
+Израел	IL	376
+Италија	IT	380
+Јамајка	JM	388
+Јапонија	JP	392
+Jersey	JE	832
+Јордан	JO	400
+Казакстан	KZ	398
+Кенија	KE	404
+Кирибати	KI	296
+Korea, Democratic People's Republic of	KP	408
+Република Кореја	KR	410
+Кувајт	KW	414
+Киргистан	KG	417
+Lao People's Democratic Republic	LA	418
+Латвија	LV	428
+Lebanon	LB	422
+Lesotho	LS	426
+Либерија	LR	430
+Libyan Arab Jamahiriya	LY	434
+Лихтенштајн	LI	438
+Литванија	LT	440
+Луксембург	LU	442
+Macao	MO	446
+Македонија	MK	807
+Мадагаскар	MG	450
+Malawi	MW	454
+Малезија	MY	458
+Малдиви	MV	462
+Мали	ML	466
+Малта	MT	470
+Marshall Islands	MH	584
+Martinique	MQ	474
+Mauritania	MR	478
+Mauritius	MU	480
+Mayotte	YT	175
+Мексико	MX	484
+Micronesia, Federated States of	FM	583
+Молдавија	MD	498
+Монако	MC	492
+Монголија	MN	496
+Црна Гора	ME	499
+Montserrat	MS	500
+Мароко	MA	504
+Мозамбик	MZ	508
+Myanmar	MM	104
+Namibia	NA	516
+Nauru	NR	520
+Непал	NP	524
+Холандија	NL	528
+Netherlands Antilles	AN	530
+Нова Каледонија	NC	540
+Нов Зеланд	NZ	554
+Никарагва	NI	558
+Нигер	NE	562
+Нигерија	NG	566
+Niue	NU	570
+Norfolk Island	NF	574
+Northern Mariana Islands	MP	580
+Норвешка	NO	578
+Оман	OM	512
+Пакистан	PK	586
+Palau	PW	585
+Palestinian Territory, Occupied	PS	275
+Панама	PA	591
+Papua New Guinea	PG	598
+Парагвај	PY	600
+Перу	PE	604
+Филипини	PH	608
+Pitcairn	PN	612
+Полска	PL	616
+Португалија	PT	620
+Puerto Rico	PR	630
+Катар	QA	634
+RГ©union	RE	638
+Романија	RO	642
+Руска Федерација	RU	643
+Rwanda	RW	646
+Saint BarthГ©lemy	BL	652
+Saint Helena	SH	654
+Saint Kitts and Nevis	KN	659
+Saint Lucia	LC	662
+Saint Martin (French part)	MF	663
+Saint Pierre and Miquelon	PM	666
+Saint Vincent and the Grenadines	VC	670
+Samoa	WS	882
+Сан Марино	SM	674
+Sao Tome and Principe	ST	678
+Saudi Arabia	SA	682
+Сенегал	SN	686
+Србија	RS	688
+Сејшели	SC	690
+Сиера Леоне	SL	694
+Сингапур	SG	702
+Словачка	SK	703
+Словенија	SI	705
+Solomon Islands	SB	090
+Сомалија	SO	706
+Јужна Африка	ZA	710
+South Georgia and the South Sandwich Islands	GS	239
+Шпанија	ES	724
+Шри Ланка	LK	144
+Судан	SD	736
+Suriname	SR	740
+Svalbard and Jan Mayen	SJ	744
+Swaziland	SZ	748
+Шведска	SE	752
+Швајцарија	CH	756
+Syrian Arab Republic	SY	760
+Taiwan, Province of China	TW	158
+Tajikistan	TJ	762
+Tanzania, United Republic of	TZ	834
+Таиланд	TH	764
+Timor-Leste	TL	626
+Того	TG	768
+Tokelau	TK	772
+Тонга	TO	776
+Тринидад и Тобаго	TT	780
+Тунис	TN	788
+Турција	TR	792
+Туркменистан	TM	795
+Turks and Caicos Islands	TC	796
+Тувалу	TV	798
+Уганда	UG	800
+Украина	UA	804
+United Arab Emirates	AE	784
+Велика Британија	GB	826
+Соединети Американски Држави	US	840
+United States Minor Outlying Islands	UM	581
+Уругвај	UY	858
+Узбекистан	UZ	860
+Вануату	VU	548
+Венецуела	VE	862
+Виетнам	VN	704
+Virgin Islands, British	VG	092
+Virgin Islands, U.S.	VI	850
+Wallis and Futuna	WF	876
+Западна Сахара	EH	732
+Јемен	YE	887
+Замбија	ZM	894
+Зимбабве	ZW	716

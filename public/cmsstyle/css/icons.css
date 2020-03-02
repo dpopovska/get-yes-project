@@ -1,0 +1,108 @@
+/* ---------------------------------------------------
+
+eIndex CSS - Icons Style
+
+@cssAuthor Bojan Drangovski
+@contact bojandrango@gmail.com
+
+@date Feb / March 2016
+
+--------------------------------------------------- */
+
+.icon-arrows:before { content: "\f100"; }
+.icon-arrows-1:before { content: "\f101"; }
+.icon-bars:before { content: "\f102"; }
+.icon-black:before { content: "\f103"; }
+.icon-circle:before { content: "\f104"; }
+.icon-circle-1:before { content: "\f105"; }
+.icon-circle-2:before { content: "\f106"; }
+.icon-cogwheel:before { content: "\f107"; }
+.icon-commerce:before { content: "\f108"; }
+.icon-interface:before { content: "\f109"; }
+.icon-light:before { content: "\f10a"; }
+.icon-people:before { content: "\f10b"; }
+.icon-people-1:before { content: "\f10c"; }
+.icon-round:before { content: "\f10d"; }
+.icon-search:before { content: "\f10e"; }
+.icon-shapes:before { content: "\f10f"; }
+.icon-shapes-1:before { content: "\f110"; }
+.icon-sign:before { content: "\f111"; }
+.icon-sign-1:before { content: "\f112"; }
+.icon-sound:before { content: "\f113"; }
+.icon-tool:before { content: "\f114"; }
+.icon-two:before { content: "\f115"; }
+
+/* Left sidebar navigation icons */
+.ls-navigation .ls-navigation-inner > ul > li > a:before {
+	font-size: 17px;
+	font-family: icons;
+  font-style: normal;
+  color: #484848;
+  margin: 0px;
+	padding: 0px;
+	position: absolute;
+}
+.ls-nav-control-panel:before {
+	content: "\f103";
+	top: 16px;
+	left: 15px;
+	font-size: 16px !important;
+}
+.ls-nav-professors:before {
+	content: "\f102";
+	top: 16px;
+	left: 15px;
+}
+.ls-nav-students:before {
+	content: "\f10b";
+	top: 15px;
+	left: 15px;
+}
+.ls-nav-administration:before {
+	content: "\f10c";
+	top: 15px;
+	left: 15px;
+}
+.ls-nav-archive:before {
+	content: "\f115";
+	top: 15px;
+	left: 15px;
+}
+.ls-nav-student-questions:before {
+	content: "\f105";
+	top: 15px;
+	left: 15px;
+}
+.ls-nav-payments:before {
+	content: "\f108";
+	top: 15px;
+	left: 15px;
+}
+.ls-nav-help:before {
+	content: "\f114";
+	top: 15px;
+	left: 15px;
+}
+.ls-nav-settings:before {
+	content: "\f109";
+	top: 15px;
+	left: 15px;
+}
+
+/* Main content titlebar icons */
+.mc-title:before {
+	font-size: 17px;
+	font-family: icons;
+  font-style: normal;
+  color: #484848;
+  margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left: 25px;
+}
+.mc-title.control-panel:before {
+	content: "\f103";
+	top: 22px;
+	font-size: 20px;
+	color: #e12a48;
+}

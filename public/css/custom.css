@@ -1,0 +1,211 @@
+/* --------------------------------------------
+CHANGES MADE BY DIJANA
+-------------------------------------------- */
+
+/* --------------------------------------------
+LIVE PAGES
+-------------------------------------------- */
+
+.home-top-section > div > form > .form-group >input { 
+  float: left;
+  width: 100%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  font-family: 'osbold';
+  font-size: 18px;
+  color: #ee4d54;
+  text-align: center;
+  border-top-width: 2px;
+  border-style: solid;
+  border-color: #f65f65;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.form-group {
+	float: left;
+	width: 100%;
+  position: relative;
+}
+.error-tooltip {
+  position: absolute;
+  bottom: 65px;
+  right: 0px;
+  margin: 0px;
+  padding: 5px 20px;
+  min-height: 23px;
+  background-color: #ee4d54;
+  font-family: 'qcreg';
+  font-size: 13px;
+  color: #ffffff;
+  border-radius: 2px;
+  z-index: 1; 
+}
+.error-tooltip:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  bottom: -7px;
+  right: 20px;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  border-top: 7px solid #e04b71; 
+}
+.footer-error-tooltip{
+  bottom: 40px;
+  right: 140px;
+  background-color: #c23c42;
+}
+.footer-error-tooltip:before {
+  border-top: 7px solid #c23c42;
+}
+.contact-error-tooltip {
+  bottom: 45px;
+}
+.contact-area-error-tooltip {
+  bottom: 160px;
+}
+
+/* PREVZEMENO od STILOT vo CMS-ot*/
+
+/* Widget notifications */
+.widget-notif-cont {
+  float: left;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 1px;
+}
+.widget-notification {
+  float: left;
+  position: relative;
+  width: 100%;
+  min-height: 40px;
+  margin: 0 0 15px 0; /* changed - 1px 0 0 0; */
+  padding: 0;
+}
+.widget-notification:first-of-type {
+  margin-top: 0;
+}
+.widget-notification > span {
+  float: left;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 12px 45px;
+  font-family: 'osbold';
+  font-size: 14px;
+}
+.widget-notification > span:before {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  font-family: icons;
+  font-size: 22px;
+  font-style: normal;
+}
+.widget-notification > a {
+  position: absolute;
+  top: 12px;
+  right: 10px;
+  text-decoration: none;
+}
+.widget-notification > a:before {
+  content: '\f10f';
+  font-family: icons;
+  font-size: 11px;
+  font-style: normal;
+  -webkit-transition: .3s;
+  -moz-transition: .3s;
+  -o-transition: .3s;
+  transition: .3s;
+}
+/* success */
+.widget-notification.success {
+  background-color: #c0e7b2;
+}
+.widget-notification.success > span {
+  color: #6bb153;
+}
+.widget-notification.success > span:before {
+  content: '\f106';
+  color: #7ac062;
+}
+.widget-notification.success > a:before {
+  color: #90d577;
+}
+.widget-notification.success > a:hover:before {
+  color: #7ec564;
+}
+
+/* error */
+.widget-notification.error {
+  background-color: #e9a8b9;
+}
+.widget-notification.error > span {
+  color: #e12a48;
+}
+.widget-notification.error > span:before {
+  content: '\f110';
+  color: #e12a48;
+}
+.widget-notification.error > a:before {
+  color: #dc8ba0;
+}
+.widget-notification.error > a:hover:before {
+  color: #cf6e87;
+}
+
+/* info */
+.widget-notification.info {
+  background-color: #c9e1f0;
+}
+.widget-notification.info > span {
+  color: #35a3c5;
+}
+.widget-notification.info > span:before {
+  content: '\f10d';
+  color: #35a7ca;
+}
+.widget-notification.info > a:before {
+  color: #a0c8e2;
+}
+.widget-notification.info > a:hover:before {
+  color: #8ebad5;
+}
+/* warning */
+.widget-notification.warning {
+  background-color: #f2deb2;
+}
+.widget-notification.warning > span {
+  color: #b7861b;
+}
+.widget-notification.warning > span:before {
+  content: '\f112';
+  color: #b7861b;
+}
+.widget-notification.warning > a:before {
+  color: #e1c78f;
+}
+.widget-notification.warning > a:hover:before {
+  color: #d1b578;
+}
+
+/* PREVZEMENO od STILOT vo CMS-ot*/
+
+ul.pagination{
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+ul.pagination > li{
+  display: inline-block;
+  margin: 5px;
+}
+.hide-desc{
+  display: none;
+}
+/* --------------------------------------------
+LIVE PAGES
+-------------------------------------------- */

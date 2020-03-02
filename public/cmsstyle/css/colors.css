@@ -1,0 +1,331 @@
+/* ---------------------------------------------------
+
+eIndex CSS - Colors Style
+
+@cssAuthor Bojan Drangovski
+@contact bojandrango@gmail.com
+
+@date Feb / March 2016
+
+--------------------------------------------------- */
+
+
+/* ---------------------------------------------------
+
+INFO TILES COLORS
+
+--------------------------------------------------- */
+/* blue */
+.info-tile.blue {
+	background-color: #53b9d9;
+	}
+.info-tile.blue .info-tile-icon {
+	background-color: #41afd1;
+	}
+.info-tile.blue .info-tile-icon > span:before {
+	color: #84d7f1;
+	}
+
+/* red */
+.info-tile.red {
+	background-color: #e36183;
+	}
+.info-tile.red .info-tile-icon {
+	background-color: #de4a71;
+	}
+.info-tile.red .info-tile-icon > span:before {
+	color: #f3aabd;
+	}
+
+/* green */
+.info-tile.green {
+	background-color: #88c971;
+	}
+.info-tile.green .info-tile-icon {
+	background-color: #7ac062;
+	}
+.info-tile.green .info-tile-icon > span:before {
+	color: #b6efa3;
+	}
+
+/* violet */
+.info-tile.violet {
+	background-color: #bf85d4;
+	}
+.info-tile.violet .info-tile-icon {
+	background-color: #b173c8;
+	}
+.info-tile.violet .info-tile-icon > span:before {
+	color: #e1a8f7;
+	}
+
+/* ---------------------------------------------------
+
+WIDGET COLORS
+
+--------------------------------------------------- */
+/* red */
+.widget.red .widget-titlebar > span {
+	border-color: #e12a48;
+	}
+.widget.red .widget-titlebar .widget-actions > a:hover:before {
+	color: #ef8597;
+	}
+
+/* ---------------------------------------------------
+
+USER TILES COLORS
+
+--------------------------------------------------- */
+.widget.red .widget-content-wrapper .widget-content .widget-user-tile {
+	background-color: #f4e6e8;
+}
+
+/* ---------------------------------------------------
+
+TABS COLORS
+
+--------------------------------------------------- */
+.widget.red .widget-tabs > ul {
+	background-color: #f6667e;
+}
+.widget.red .widget-tabs > ul > li > a.active, .widget.red .widget-tabs > ul > li > a:hover {
+	background-color: #e12a48;
+}
+
+
+/* ---------------------------------------------------
+
+SCROLLBAR COLORS
+
+--------------------------------------------------- */
+/* widget scrollbar */
+.widget.red .widget-content-wrapper .widget-content .scroll-bar {
+	background-color: #e12a48 !important;
+	}
+
+
+/* navigation scrollbar */
+.ls-navigation.red .ls-navigation-inner .scroll-y .scroll-element_outer .scroll-bar {
+	background-color: #e12a48 !important;
+}
+
+/* ---------------------------------------------------
+
+FORM FIELDS COLORS
+
+--------------------------------------------------- */
+/* red */
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-input-field {
+	color: #893c48;
+	border-color: #f9a0af;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-file-field {
+	border-color: #f9a0af;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-file-field > span {
+	color: #893c48;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-file-field:before {
+	color: #e12a48;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-select-field {
+	border-color: #f9a0af;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-select-field > select {
+	color: #893c48;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-select-field:after {
+	color: #e12a48;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-textarea-field {
+	color: #893c48;
+	border-color: #f9a0af;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field label.fg-radio-label::before {
+	border-color: #f9a0af;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field input.fg-radio[type='radio']:checked + label.fg-radio-label::after {
+	background-color: #e12a48;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-radio-label {
+	color: #893c48;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field label.fg-checkbox-label::before {
+	border-color: #f9a0af;
+	background-color: #fef0f2;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field input.fg-checkbox[type='checkbox']:checked + label.fg-checkbox-label::after {
+	color: #e12a48;
+	}
+.widget.red .widget-content-wrapper .form-group-wrapper .form-group .fg-field .fg-checkbox-label {
+	color: #893c48;
+	}
+
+/* ---------------------------------------------------
+
+SELECT2 FIELD COLORS
+
+--------------------------------------------------- */
+/* select2 single */
+.widget.red .select2-container--default .select2-selection--single {
+	background-color: #fef0f2;
+  border-color: #f9a0af;
+}
+.widget.red .select2-container .select2-selection--single .select2-selection__rendered {
+	color: #893c48; 
+}
+.widget.red .select2-container--default .select2-selection--single .select2-selection__arrow b {
+	border-color: #e12a48 transparent transparent;
+}
+.widget.red .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+	border-color: transparent transparent #e12a48;
+}
+.select2-dropdown.red {
+	background-color: #FEF0F2;
+	border-bottom: 1px solid #E8B1BA;
+}
+.select2-dropdown.red .select2-results .select2-results__options .select2-results__option {
+	color: #893c48;
+}
+.select2-dropdown.red .select2-results .select2-results__options .select2-results__option[aria-selected="true"] {
+	background-color: #EEC8CD;
+}
+.select2-dropdown.red .select2-results .select2-results__options .select2-results__option--highlighted[aria-selected] {
+	background-color: #E12A48;
+	color: #ffffff;
+}
+.select2-dropdown.red .select2-search--dropdown .select2-search__field {
+	border-color: #f9a0af;
+}
+/* select2 multiple */
+.widget.red .select2-container--default .select2-selection--multiple {
+	background-color: #fef0f2;
+  border-color: #f9a0af;
+}
+.widget.red .select2-container--default.select2-container--focus .select2-selection--multiple {
+	background-color: #fef0f2;
+  border-color: #f9a0af;
+}
+.widget.red .select2-container .select2-search--inline .select2-search__field {
+	color: #893c48;
+}
+.widget.red .select2-container--default .select2-selection--multiple .select2-selection__choice {
+	background-color: #E12A48;
+}
+.widget.red .select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover {
+	color: #810015;
+}
+/* ---------------------------------------------------
+
+PROGRESS BARS COLORS
+
+--------------------------------------------------- */
+.progress-bar.blue > div {
+	background-color: #53b9d9;
+}
+.progress-bar.yellow > div {
+	background-color: #f3b133;
+}
+.progress-bar.red > div {
+	background-color: #e36183;
+}
+.progress-bar.green > div {
+	background-color: #88c971;
+}
+.progress-bar.violet > div {
+	background-color: #bf85d4;
+}
+.progress-bar.cyan > div {
+	background-color: #62c7ba;
+}
+.progress-bar.grey > div {
+	background-color: #656565;
+}
+.progress-bar.orange > div {
+	background-color: #ff942b;
+}
+.progress-bar.brown > div {
+	background-color: #c0663e;
+}
+
+/* ---------------------------------------------------
+
+LABELS COLORS
+
+--------------------------------------------------- */
+.label.blue {
+	background-color: #53b9d9;
+}
+.label.yellow {
+	background-color: #f3b133;
+}
+.label.red {
+	background-color: #e36183;
+}
+.label.green {
+	background-color: #88c971;
+}
+.label.violet {
+	background-color: #bf85d4;
+}
+.label.cyan {
+	background-color: #62c7ba;
+}
+.label.grey {
+	background-color: #656565;
+}
+.label.orange {
+	background-color: #ff942b;
+}
+.label.brown {
+	background-color: #c0663e;
+}
+
+/* ---------------------------------------------------
+
+FORMATTING
+
+--------------------------------------------------- */
+.widget.red .formatting a {
+	color: #e12a48;
+}
+.widget.red .formatting ul li:before {
+	color: #e12a48;
+}
+
+/* ---------------------------------------------------
+
+DATATABLES COLORS
+
+--------------------------------------------------- */
+.widget.red .dataTables_wrapper select, .widget.red .dataTables_wrapper input {
+	background-color: #FEF0F2;
+	border-top-color: #f9a0af;
+	color: #893c48;
+}
+.widget.red table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd {
+	background-color: #FEF0F2;
+}
+.widget.red table.dataTable th{
+	background-color: #f6667e;
+}
+.widget.red table.dataTable {
+	font-family: 'osreg';
+	font-size: 13px;
+}
+.widget.red .dataTables_wrapper .dataTables_paginate .paginate_button {
+	background-color: #F6667E;
+}
+.widget.red  .dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+	background-color: #E12A48;
+}
+.widget.red .paginate_button.previous:before, .widget.red .paginate_button.next:before {
+	color: #9F1D33;
+}
